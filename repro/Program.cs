@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Threading;
 
-namespace ConsoleApp1
+namespace repro
 {
     class Program
     {
